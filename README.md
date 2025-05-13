@@ -51,6 +51,6 @@ Backed by the previously disclosed theory:
 ## 📢 Notice
 
 This is a **minimal disclosure** intended to establish authorship and precedence.  
-Technological implementations, synchronization engines, and applied economic models remain unpublished.
+All applied systems — including synchronization engines, architecture, and deployment contexts — remain unpublished.
 
 ---
